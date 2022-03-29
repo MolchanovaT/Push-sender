@@ -1,0 +1,1 @@
+C:\netology\and2-code-master\and2-code-master\push-sender\build\classes\kotlin\main\ru\netology\pusher\ConstantsKt.class;C:\netology\and2-code-master\and2-code-master\push-sender\build\classes\kotlin\main\ru\netology\pusher\MainKt.class
